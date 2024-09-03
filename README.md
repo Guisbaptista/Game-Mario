@@ -2,7 +2,7 @@
  # 1️⃣ Jogo do MARIO em JS, HTML e CSS
 
 # Guilherme da Silva Baptista    
-Olá, sou o Guilherme,sou estudante de Analise e Desenvolvimento de Sistemas, Jogo do Mario feito em HTML, CSS e JavaScript, buscando aperfeiçoar meus conhecimentos com estas tecnologias
+Olá, sou estudante de Analise e Desenvolvimento de Sistemas, Jogo do Mario feito em HTML, CSS e JavaScript, buscando aperfeiçoar meus conhecimentos com estas tecnologias
 
 ### Conecte-se comigo
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Guis.baptista/)
